@@ -1,0 +1,1 @@
+[{"title":"Socks Man","description":"Socks Man","price":5,"thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPmPN6bj6Nja8Fy91tSH3WDclJU9Nvq-nmLw&usqp=CAU","code":10,"stock":10,"id":9}]
