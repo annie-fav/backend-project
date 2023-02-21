@@ -1,6 +1,6 @@
 import express from 'express'
-import routerProduct from './routes/products_routes'
-import routerCart from './routes/carts_routes'
+import routerProduct from './routes/products_routes.js'
+import routerCart from './routes/carts_routes.js'
 import { __dirname } from "./path.js"
 import multer from "multer"
 
